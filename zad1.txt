@@ -13,7 +13,7 @@ class Program
             Console.WriteLine($"Rzut {i}: {wynik}");
         }
         
-        Console.WriteLine("Naciśnij dowolny klawisz, aby zakończyć...");
+        Console.WriteLine("Naciśnij dowolny przycisk, aby zakończyć...");
         Console.ReadKey();
     }
 }
